@@ -16,8 +16,8 @@ Follow these steps to set up and run the Book Management System using Docker Com
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/christoman0324/Book-Management-System.git
-   cd Book-Management-System
+   git clone https://github.com/christoman0324/Book-Management-System-Springboot.git
+   cd Book-Management-System-Springboot
    ```
 
 2. **Build the Docker images:**
